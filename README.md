@@ -4,9 +4,9 @@ I designed and built a personal capture and recall app across web and native mob
 
 **[Read the illustrated case study](https://carsonmcrae.github.io/recalen/)** · **[Visit Recalen](https://recalen.com)**
 
-![Illustrated Recalen workflow: capture an idea, choose what to keep, organize it, and return when needed](https://carsonmcrae.github.io/assets/recalen-flow.svg)
+![Recalen's local web beta with fictional demo entries and walkthrough commentary](https://carsonmcrae.github.io/assets/walkthrough/recalen-poster.webp)
 
-Illustrated product workflow with example content. This is a walkthrough diagram, not an application screenshot.
+Recalen's local web beta, populated with fictional demo entries. The guided tour below follows the actual interface.
 
 ## My role
 
@@ -78,6 +78,12 @@ I kept plan-step reminders attached to stable steps when a plan is edited or reo
 Recalen is in ongoing private beta and has not had a public release. Some integrations depend on environment configuration. The public product URL currently provides the beta entry point.
 
 This repository presents the product case study. Application source remains private.
+
+## Explore the work
+
+[Product walkthrough](https://carsonmcrae.github.io/recalen/#walkthrough)
+
+[Public beta roadmap](https://github.com/users/carsonmcrae/projects/1) · [Delivery snapshot](https://carsonmcrae.github.io/delivery/)
 
 ## More work
 
