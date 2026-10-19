@@ -83,6 +83,8 @@ This repository presents the product case study. Application source remains priv
 
 [Product walkthrough](https://carsonmcrae.github.io/recalen/#walkthrough)
 
+[Watch the Recalen product film](https://carsonmcrae.github.io/recalen/#promo)
+
 [Public beta roadmap](https://github.com/users/carsonmcrae/projects/1) · [Delivery snapshot](https://carsonmcrae.github.io/delivery/)
 
 ## More work
