@@ -62,6 +62,17 @@ I kept plan-step reminders attached to stable steps when a plan is edited or reo
 
 **The tradeoff:** Notes, captured messages, and plan steps have distinct behaviors that need to stay consistent across web and mobile.
 
+## Engineering depth
+
+**390,720 lines of application source** across 1,991 files, plus **528,369 lines of tests and test support** across 1,999 files.
+
+Saved coverage report (Aug 21, 2026): **100% lines and functions; 99.99% branches** for the measured executable source.
+
+Source sizes measured October 19, 2026. Physical lines include comments and blanks; dependencies, generated output, assets, and lockfiles are excluded. Documentation and tooling are separate. Coverage uses its own configured source scope and report date.
+
+[Measurement details](https://carsonmcrae.github.io/recalen/#engineering)
+
+
 ## Delivery scope
 
 - Text, rich text, links, files, images, and voice capture
